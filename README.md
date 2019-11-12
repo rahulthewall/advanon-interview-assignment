@@ -1,5 +1,8 @@
 # Github React Example
 
+## Project Date
+March 4th, 2017
+
 ## Objective
 Single Page application (SPA) which displays a list of Github users by using [Github public API](https://developer.github.com/v3/users/#get-all-users)  with an option to display detailed user data on a separate page.
 
